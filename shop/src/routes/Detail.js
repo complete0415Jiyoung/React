@@ -74,7 +74,7 @@ const Detail = ( props ) =>{
   useEffect(()=>{
     return() =>{
 
-    }
+    
   }, [])                    3. numount시 1회 코드실행하고 싶으면
                             4. useEffect 실행전에 뭔가 실행하려면 
                             return () => {}
