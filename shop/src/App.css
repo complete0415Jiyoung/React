@@ -43,3 +43,7 @@
   background-size: cover;
   background-position: center;
 }
+/* 타이머 */
+.alert{
+  background-color: wheat;
+}
